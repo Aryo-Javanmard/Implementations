@@ -11,3 +11,8 @@ public:
     }
 
 };
+
+int main() {
+    Graph graph(5);
+    return 0;
+}
